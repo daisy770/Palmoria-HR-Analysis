@@ -18,7 +18,8 @@ The data cleaning process includes:
 - Minimum Wage Compliance
 - Pay distribution of employees grouped by a band of $10,000
 - Bonus Payment Calculation
- ![picture 13](https://github.com/user-attachments/assets/d3d99b0c-ff86-4c7e-9731-383b9f9582ff)
+
+![picture 13](https://github.com/user-attachments/assets/d3d99b0c-ff86-4c7e-9731-383b9f9582ff)
 
 ![picture 14](https://github.com/user-attachments/assets/278f841c-46a9-4629-9d69-cd9131573ae6)
 
