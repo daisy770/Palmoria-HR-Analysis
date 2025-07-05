@@ -16,5 +16,18 @@ The data cleaning process includes:
 - Providing insights on ratings based on gender
 - Salary structure Analysis
 - Minimum Wage Compliance
-- Pay distribution of employees grouped by a band of $10000
+- Pay distribution of employees grouped by a band of $10,000
 - Bonus Payment Calculation
+### Visualization
+ The analysis will be visualized using:
+- Bar charts: Gender  distribution in the organization, regions, and departments.
+- Scatter plots
+- Histograms: Pay distribution of emplpoyees grouped by a band of $10,000
+- Piecharts
+### Key Learnings
+- Gender distribution
+- Ratings insights
+- Salary Structure
+- Minimum wage Compliance
+- Pay distribution
+- 
