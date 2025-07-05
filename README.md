@@ -30,4 +30,4 @@ The data cleaning process includes:
 - Salary Structure
 - Minimum wage Compliance
 - Pay distribution
-- 
+  
